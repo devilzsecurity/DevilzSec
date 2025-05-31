@@ -1,4 +1,3 @@
-# DevilzSec
 
 
 <h1 align="center">Hi 👋, I'm DevilzSec(Bypasser0x2)</h1>
